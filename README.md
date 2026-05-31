@@ -1,5 +1,6 @@
-# Sales_Performance_ExcelThis project demonstrates end-to-end sales data analysis using Microsoft Excel.
-The dataset was cleaned, analyzed, and transformed into interactive dashboards to generate meaningful business insights.
+# Sales_Performance_Excel
+
+This project demonstrates end-to-end sales data analysis using Microsoft Excel. The dataset was cleaned, analyzed, and transformed into interactive dashboards to generate meaningful business insights.
 🔹 Project Objectives
 Analyze regional sales performance
 Identify top-performing products and salespersons
@@ -38,4 +39,3 @@ Mobile and Laptop products delivered the strongest performance.
 Rahul emerged as the top-performing salesperson.
 📂 Project Outcome
 Developed an interactive Excel dashboard that enables quick sales monitoring, performance tracking, and data-driven business decision-making.
-
